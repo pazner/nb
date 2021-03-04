@@ -1310,6 +1310,7 @@ _file_is_image() {
 # Resources:
 #   Markdown: https://superuser.com/a/285878
 export _TEXT_FILE_EXTENSIONS=(
+  adoc
   bash
   bib
   css
